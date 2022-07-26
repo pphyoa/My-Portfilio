@@ -63,7 +63,7 @@ nav{
 }
 .navbar .navbar-collapse ul li a{
     font-size: 20px;
-    font-family: cursive;
+    font-family: serif;
     margin-left: 30px;
     position: relative;
     padding-bottom: 20px;
@@ -1165,7 +1165,7 @@ footer h1{
 footer ul li{
     color: white;
     margin: 0px 50px 25px 0px;
-    font-family: cursive;
+    font-family: serif;
     font-size: 19px;
 }
 footer .foot-box img{
